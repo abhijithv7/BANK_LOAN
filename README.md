@@ -2,7 +2,7 @@
 To predict likelihood of a liability customer buying personal loans, using some Machine Learning algorithms.
 
 Data Description:
-The file Bank.xls contains data on 5000 customers. The data include customer
+The file Bank_Personal_Loan_Modelling.xlsx contains data on 5000 customers. The data include customer
 demographic information (age, income, etc.), the customer's relationship with the bank
 (mortgage, securities account, etc.), and the customer response to the last personal
 loan campaign (Personal Loan).
